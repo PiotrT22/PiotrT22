@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Peter and i Like programming
+I am Peter and I Like programming
 
 
 <!--
