@@ -1,6 +1,3 @@
-### Hi there 👋
-I am Peter and I Like programming
-
 
 <!--
 **PiotrT22/PiotrT22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
